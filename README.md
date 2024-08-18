@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+To get in touch with me, please open an issue [here](https://github.com/fruit-bird/fruit-bird/issues).
+
 <!--
 **fruit-bird/fruit-bird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
