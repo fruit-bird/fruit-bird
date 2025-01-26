@@ -2,6 +2,8 @@
 
 To get in touch with me, please open an issue [here](https://github.com/fruit-bird/fruit-bird/issues).
 
+- 🔭 I’m currently working on [shizen](https://github.com/fruit-bird/shizen), a Rust framework for creating [VSTs](https://en.wikipedia.org/wiki/Virtual_Studio_Technology), to be on par with the C++ JUCE framework 
+- 🤔 I’m looking for help with shizen, any assitance would be greatly appreciated
 <!--
 **fruit-bird/fruit-bird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
